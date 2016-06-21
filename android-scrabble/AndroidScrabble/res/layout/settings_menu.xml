@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:weightSum="1"
+	android:gravity="clip_horizontal">
+	<TextView android:id="@+id/textView1" android:layout_width="match_parent"
+		android:layout_height="30dp"
+		android:gravity="center|top" android:textStyle="bold" android:text="@string/account"></TextView>
+	<LinearLayout android:id="@+id/linearLayout2"
+		android:layout_width="match_parent" android:layout_height="66dp">
+		<Spinner android:layout_weight="1" android:layout_width="match_parent"
+			android:prompt="@string/lang_desc"
+			android:layout_height="wrap_content" android:id="@+id/lang"></Spinner>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:gravity="center"
+		android:layout_height="40dp">
+		<Button android:gravity="center|center_vertical|center_horizontal"
+			android:id="@+id/save" android:layout_width="110dp"
+			android:layout_height="wrap_content" android:text="@string/settings_save"></Button>
+	</LinearLayout>
+</LinearLayout>

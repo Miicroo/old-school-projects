@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hallo Welt, AndroidScrabbleActivity!</string>
+    <string name="app_name">Scrabble</string>
+    <string name="new_game">Neues Spiel</string>
+    <string name="settings">Einstellungen</string>
+    <string name="help">Hilfe</string>
+    <string name="about">Über</string>
+    <string name="account">Konto</string>
+    <string name="login_header">Geben Sie den Benutzernamen anmelden:</string>
+    <string name="login_submit">Log in!</string>
+    <string name="signup_header">Geben Sie gewünschten Benutzernamen:</string>
+    <string name="signup_submit">Registrieren!</string>
+    <string name="lang_desc">Wählen Sie eine Sprache</string>
+    <string name="settings_save">Sparen!</string>
+    <string name="help_text">
+    Diese App können Sie das Spiel spielen Scrabble. \n
+    Im Hauptfenster können Sie entscheiden, was Sie tun möchten. \n \n
+    
+    So ändern Sie die Einstellungen der App (Sprache und so), drücken Sie die "Einstellungen"-Taste. \n
+    Um diesen zu helfen, drücken Sie die "Hilfe"-Taste. \n
+    Um Kredite und Sachen über die App drücken Sie die "about"-Taste. \n \n
+    
+    Um ein neues Spiel starten, drücken Sie die "Neues Spiel"-Taste. \n
+    Wenn die Taste gedrückt ist, können Sie Wörterbuch und benutzerfreundliche gegen. \n spielen
+    Sobald das Spiel gestartet wird, NICHT Schalten Sie das Gerät! Wenn das Telefon verliert die Verbindung zum Server
+    das Spiel ist verloren, sorry! :( \n
+    </string>
+    <string name="author_title">Autoren:</string>
+    <string name="logout">Ausloggen!</string>
+</resources>

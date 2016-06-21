@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Ciao a tutti, AndroidScrabbleActivity!</string>
+    <string name="app_name">Scarabeo</string>
+    <string name="new_game">Nuovo Gioco</string>
+    <string name="settings">Preferenze</string>
+    <string name="help">Aiuto</string>
+    <string name="about">Circa</string>
+    <string name="account">Conto</string>
+    <string name="login_header">Inserisci il nome utente:</string>
+    <string name="login_submit">Login!</string>
+    <string name="signup_header">Inserisci il tuo nome utente desiderato:</string>
+    <string name="signup_submit">Registrati!</string>
+    <string name="lang_desc">Selezionare Lingua</string>
+    <string name="settings_save">Salvare!</string>
+    <string name="help_text">
+    Questa applicazione vi permette di giocare a Scarabeo. \n
+    Nella finestra principale si può scegliere quello che vuoi fare. \n \n
+    
+    Per modificare le impostazioni delle app, (lingua, ecc), premere il pulsante "Impostazioni"-pulsante. \n
+    Per visualizzare questo aiuto, premere il tasto "aiuto" a pulsante. \n
+    Per visualizzare i crediti e roba del genere sulla stampa applicazione del "circa"-pulsante. \n \n
+    
+    Per iniziare una nuova partita, premere il tasto "nuova partita" a pulsante. \n
+    Quando il pulsante viene premuto, è possibile scegliere e dizionario utente a giocare contro. \n
+    Una volta che il gioco viene avviato, NON SPEGNERE IL TELEFONO! Se il telefono perde la connessione al server
+    la partita è persa, mi spiace! :( \n
+    </string>
+    <string name="author_title">Autori:</string>
+    <string name="logout">Log out!</string>
+</resources>

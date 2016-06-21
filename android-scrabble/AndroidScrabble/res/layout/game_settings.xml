@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:weightSum="1">
+	<LinearLayout android:id="@+id/linearLayout3"
+		android:layout_width="match_parent" android:layout_height="10dp"></LinearLayout>
+	<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent" android:id="@+id/settings_dictionary_header"
+		android:text="@string/settings_dictionary_header"
+		android:layout_height="30dp" android:gravity="center_vertical"></TextView>
+	<Spinner android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:id="@+id/settings_dictionary"></Spinner>
+	<LinearLayout android:id="@+id/linearLayout4"
+		android:layout_width="match_parent" android:layout_height="10dp"></LinearLayout>
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:layout_height="wrap_content">
+		<TextView android:text="@string/settings_search_header"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="match_parent" android:layout_height="30dp"
+			android:gravity="center_vertical" android:id="@+id/settings_search_header"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/linearLayout2"
+		android:layout_height="wrap_content" android:layout_width="310dp">
+		<LinearLayout android:id="@+id/linearLayout7"
+			android:layout_height="match_parent" android:orientation="vertical"
+			android:layout_width="5dp" android:weightSum="1">
+		</LinearLayout>
+		<EditText android:layout_height="47dp" android:layout_width="230dp"
+			android:id="@+id/settings_search_field">
+			<requestFocus></requestFocus>
+		</EditText>
+		<Button android:text="@string/settings_search_submit"
+			android:layout_width="80dp" android:layout_height="50dp"
+			android:id="@+id/settings_search_submit"></Button>
+	</LinearLayout>
+	<LinearLayout android:layout_width="match_parent"
+		android:layout_height="40dp" android:id="@+id/linearLayout6">
+		<TextView android:id="@+id/settings_search_result"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:text="" android:layout_width="match_parent" android:layout_height="30dp" android:gravity="clip_vertical"></TextView>
+	</LinearLayout>
+	<Button android:layout_height="wrap_content"
+		android:layout_width="match_parent" android:text="@string/settings_start_game"
+		android:textStyle="bold" android:textSize="18sp" android:id="@+id/settings_start_game"></Button>
+</LinearLayout>

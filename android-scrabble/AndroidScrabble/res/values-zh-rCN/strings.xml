@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hallå världen, AndroidScrabbleActivity!</string>
+    <string name="app_name">Alfapet</string>
+    <string name="new_game">Nytt spel</string>
+    <string name="settings">Inställningar</string>
+    <string name="help">Hjälp</string>
+    <string name="about">Om</string>
+    <string name="account">Konto</string>
+    <string name="login_header">Ange användarnamn:</string>
+    <string name="login_submit">Logga in!</string>
+    <string name="signup_header">Ange önskat användarnamn:</string>
+    <string name="signup_submit">Registrera!</string>
+    <string name="lang_desc">Välj språk</string>
+    <string name="settings_save">Spara!</string>
+    <string name="help_text">
+    I denna app kan du spela spelet Alfapet. \n
+    I huvudfönstret kan du välja vad du vill göra. \n \n
+    
+    För att ändra inställningarna för applikationen, (språk och så), tryck på "Inställningar"-knappen. \n
+    För att visa denna hjälp, tryck på "Hjälp"-knappen. \n
+    För att visa poäng och grejer om programmet tryck på "om"-knappen. \n \n
+    
+    För att starta ett nytt spel, tryck på "nytt spel"-knappen. \n
+    När knappen trycks in, kan du välja ordbok och användare att spela mot. \n
+    När spelet startas, STÄNG INTE av telefonen! Om telefonen tappar anslutningen till servern
+    spelet är förlorat, sorry! :( \n
+    </string>
+    <string name="author_title">Skapare:</string>
+    <string name="logout">Logga ut!</string>
+</resources>

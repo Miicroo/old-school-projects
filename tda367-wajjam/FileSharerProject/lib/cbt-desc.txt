@@ -1,0 +1,13 @@
+This library contains the files to create a CheckboxTree displaying the filesystem.
+A FileSystemModel is also required, but you can write one yourself.
+
+<code>
+
+CheckboxTree cbt = new CheckboxTree();
+FileSystemModel model = new FileSystemModel(File[] myRoots);
+
+cbt.setModel(model);
+
+</code>
+
+Enjoy!

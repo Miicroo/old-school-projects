@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hei maailama, AndroidScrabbleActivity!</string>
+    <string name="app_name">Raapia</string>
+    <string name="new_game">Uusi peli</string>
+    <string name="settings">Asetukset</string>
+    <string name="help">Apua</string>
+    <string name="about">Noin</string>
+    <string name="account">Tili</string>
+    <string name="login_header">Anna käyttäjätunnus login:</string>
+    <string name="login_submit">Kirjaudu sisään!</string>
+    <string name="signup_header">Syötä haluamasi käyttäjätunnus:</string>
+    <string name="signup_submit">Rekisteröidy!</string>
+    <string name="lang_desc">Valitse kieli</string>
+    <string name="settings_save">Tallenna!</string>
+    <string name="help_text">
+    Tämä sovellus voit pelata pelin Scrabble. \n
+    Pääikkunassa voit valita mitä haluat tehdä. \n \n
+    
+    Voit muuttaa asetuksia app, (kieli ja niin), paina "Asetukset"-painiketta. \n
+    Voit avata ohjeen, paina "help"-painiketta. \n
+    Voit tarkastella luottojen ja juttua App paina "noin"-painiketta. \n \n
+    
+    Voit aloittaa uuden pelin painamalla "uusi peli"-painiketta. \n
+    Kun painiketta painetaan, voit valita sanakirjan ja käyttäjien pelata vastaan​​. \n
+    Kun peli alkaa, älä puhelimen sammuttamista! Jos puhelin menettää yhteyden palvelimeen
+    peli on menetetty, sorry! :( \n
+    </string>
+    <string name="author_title">Tekijät:</string>
+    <string name="logout">Kirjaudu ulos!</string>
+</resources>

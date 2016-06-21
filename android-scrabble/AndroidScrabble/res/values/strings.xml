@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidScrabbleActivity!</string>
+    <string name="app_name">Alfapet</string>
+    <string name="new_game">New Game</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="login_header">Enter username to login:</string>
+    <string name="login_submit">Log in!</string>
+    <string name="signup_header">Enter desired username:</string>
+    <string name="signup_submit">Sign up!</string>
+    <string name="serverip">129.16.200.32</string>
+    <string name="lang_desc">Choose language</string>
+    <string-array name="langs">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Suomi</item>
+        <item>Deutsch</item>
+        <item>Italiano</item>
+        <item>Française</item>
+    </string-array>
+    <string name="settings_save">Save!</string>
+    <string name="help_text">
+    This app lets you play the game scrabble.\n
+    In the main window you can choose what you want to do.\n\n
+    
+    To change the settings of the app, (language and so), press the "Settings"-button.\n
+    To view this help, press the "help"-button.\n
+    To view credits and stuff about the app press the "about"-button.\n\n
+    
+    To start a new game, press the "new game"-button.\n
+    When the button is pressed, you can choose dictionary and user to play against.\n
+    Once the game is started, DONT TURN OFF THE PHONE! If the phone loses connection to the server
+    the game is lost, sorry! :( \n
+    </string>
+    <string name="version">0.1</string>
+    <string name="author_title">Authors:</string>
+    <string name="authors">Magnus Larsson\nMarika Hansson\nMathias Forssén</string>
+    <string name="logout">Log out!</string>
+    <string name="settings_search_header">Search for user:</string>
+    <string name="settings_search_submit">Search</string>
+    <string name="settings_dictionary_header">Choose dictionary:</string>
+    <string name="settings_start_game">Start game! (Invite player!)</string>
+    <string name="update_gameslist">Update gameslist</string>
+</resources>
